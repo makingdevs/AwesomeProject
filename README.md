@@ -8,6 +8,11 @@
 
 ## Tech Stack
 
-- Rust
-- Elm
+- Python
+- Typescript
 - Linux
+
+## Features
+
+- Login
+- Logout
