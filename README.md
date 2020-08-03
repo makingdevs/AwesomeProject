@@ -8,11 +8,12 @@
 
 ## Tech Stack
 
-- Python
-- Typescript
-- Linux
+- Ruby
+- Elm
+- Unix
 
 ## Features
 
 - Login
 - Logout
+- Users admin
